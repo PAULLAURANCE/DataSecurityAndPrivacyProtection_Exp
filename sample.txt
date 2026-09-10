@@ -1,0 +1,1 @@
+Privacy protection is important in data security. Data privacy means keeping personal information safe. When systems collect data, they should protect data privacy and respect user privacy. Strong security controls help organizations prevent data leaks and privacy violations.
